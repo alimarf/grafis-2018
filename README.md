@@ -359,7 +359,7 @@ Pada projek ini akan ditampilkan perputaran planet-planet terhadap matahari deng
 * Music Box: 2 gears and an object
 
 ### Github Repository
-* [https://github.com/alimarf/projekgrafis](https://github.com/alimarf/projekgrafis)
+* [https://github.com/VamosIna/projekgrafis](https://github.com/VamosIna/projekgrafis)
 
 ## Group XXIV
 
